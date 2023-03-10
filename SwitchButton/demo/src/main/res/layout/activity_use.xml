@@ -102,7 +102,7 @@
 			style="@style/SwitchButtonStyle"
 			android:layout_width="wrap_content"
 			android:layout_height="wrap_content"
-			app:kswTintColor="#16A560"/>
+			app:swTintColor="#16A560"/>
 
 		<View
 			android:layout_width="match_parent"
@@ -133,7 +133,7 @@
 				style="@style/SwitchButtonStyle"
 				android:layout_width="wrap_content"
 				android:layout_height="wrap_content"
-				app:kswTintColor="#D02E21"/>
+				app:swTintColor="#D02E21"/>
 
 		</LinearLayout>
 
